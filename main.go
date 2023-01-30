@@ -1,6 +1,6 @@
 package main
 
-import "myProj/pkg/example"
+import "github.com/behryuz/exampleGO/pkg/example"
 
 func main() {
 	println("Hello")
